@@ -1,4 +1,3 @@
 <?php
-echo "bal bla bla"
-echo "acksbacsj"
+echo "Trna Van Dong DCT1204"
 ?>
