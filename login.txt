@@ -1,4 +1,3 @@
 <?php
 echo "Tran Van Dong sua file login"
-echo "NBTD"
 ?>
