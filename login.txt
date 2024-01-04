@@ -1,4 +1,8 @@
 <?php
+<<<<<<< HEAD
 echo "screen login"
 echo "login"
+=======
+echo "login - Tran Van Dong"
+>>>>>>> branch2
 ?>
