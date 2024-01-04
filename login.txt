@@ -1,4 +1,3 @@
 <?php
-echo "screen login"
-echo "login - Tran Van Dong"
+echo "NBTD chinh sua chuc nang login"
 ?>
