@@ -2,4 +2,6 @@
 echo "NBTD"
 echo "Screen login"
 echo "hello word"
+echo "abc"
+echo "xyz"
 ?>
