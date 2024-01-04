@@ -1,3 +1,4 @@
 <?php
 echo "TVD chinh sua chuc nang login"
+echo "TQD bo xung chuc nang login"
 ?>
