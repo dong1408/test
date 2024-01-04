@@ -1,4 +1,6 @@
 <?php
 echo "Tran Van Dong sua file login"
 echo "NBTD"
+echo "Screen login"
+echo "hello word"
 ?>
