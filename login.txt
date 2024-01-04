@@ -1,3 +1,3 @@
 <?php
-echo "NBTD chinh sua chuc nang login"
+echo "TVD chinh sua chuc nang login"
 ?>
