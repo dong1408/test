@@ -1,4 +1,3 @@
 <?php
-echo "Trna Van Dong DCT1204"
-echo "hello word"
+echo "toi muon thanh thao su dung GIT"
 ?>
