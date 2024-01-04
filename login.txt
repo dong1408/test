@@ -1,3 +1,5 @@
 <?php
-echo "screen login"
+echo "TVD chinh sua chuc nang login"
+echo "TQD bo xung chuc nang login"
+echo "NBTD chinh su chuc nang login"
 ?>
