@@ -1,3 +1,0 @@
-<?php
-echo "Toi muon luong khoi diem khi ra trường la 15tr"
-?>
